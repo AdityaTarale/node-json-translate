@@ -1,0 +1,542 @@
+{
+    "btnLogin": {
+        "text": "Gabung",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "btnPasswordHelp": {
+        "text": "Minta Kata Sandi Baru",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "btnResetPassword": {
+        "text": "Simpan dan Masuk",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "byFMC": {
+        "text": "oleh",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "emailAddressError": {
+        "text": "Alamat email atau nomor telepon tidak terdaftar dengan akun. Periksa alamat email atau nomor telepon yang Anda masukkan, atau minta akses untuk membuat akun.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputEmail": {
+        "text": "Alamat Email atau Nomor Telepon",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputPassword": {
+        "text": "Kata sandi",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputPasswordNotCorrect": {
+        "text": "Kata sandi yang Anda masukkan tidak cocok dengan catatan kami. Silakan coba lagi.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputResetPasswordConfirmPassword": {
+        "text": "Konfirmasi password baru",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputResetPasswordNewPassword": {
+        "text": "kata sandi baru",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelPasswordHelp": {
+        "text": "Bantuan kata sandi",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelPasswordHelpHeader": {
+        "text": "Mereset password Anda",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelPasswordHelpSecondHeader1": {
+        "text": "Kami akan mengirimkan tautan setel ulang kata sandi ke nomor telepon Anda. Masih butuh bantuan? Hubungi kami di",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "[We&#39;ll] send a password reset link to your phone number. Still need help? Contact us at",
+                "didYouMean": true
+            }
+        },
+        "raw": ""
+    },
+    "labelPasswordHelpSecondHeader2": {
+        "text": "pada",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelResetPasswordHeader": {
+        "text": "Pilih kata sandi baru",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelResetPasswordSecondHeader1": {
+        "text": "Pilih kata sandi aman yang dapat Anda ingat, idealnya campuran {{length}} karakter atau lebih dan berisi setidaknya satu karakter khusus.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelSignUp": {
+        "text": "Daftar",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "messageResetPasswordSuccess": {
+        "text": "Terima kasih. Kata sandi sementara telah dikirim ke alamat email Anda. Silakan masuk dengan kata sandi baru itu, dan ubah setelah Anda masuk.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "passwordError": {
+        "text": "",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "id"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "passwordNotMatch": {
+        "text": "Kata sandi tidak cocok",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "resetPasswordWhenUserLoggedIn": {
+        "text": "Untuk keamanan akun Anda, sandi Anda harus memiliki panjang minimal {{length}} karakter dan berisi minimal satu karakter khusus.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "phoneBeginWithCode": {
+        "text": "Nomor telepon harus diawali dengan kode negara (mis. {{countryCode}})",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "Phone number must begin with a country code (e.g. {{[country Code]}})",
+                "didYouMean": true
+            }
+        },
+        "raw": ""
+    },
+    "enterValidCredential": {
+        "text": "Masukkan alamat email atau nomor telepon yang valid",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "noInternetError": {
+        "text": "Tidak ada koneksi internet. Coba lagi nanti.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelFMCLogin": {
+        "text": "Karyawan FMC?",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelFMCLoginSubtext": {
+        "text": "Lanjutkan dengan ID email FMC Anda",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "Continue with your FMC [email] ID",
+                "didYouMean": true
+            }
+        },
+        "raw": ""
+    },
+    "loginWithCredential": {
+        "text": "Silakan masuk dengan kredensial Anda",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "loginHeader": {
+        "text": "Gabung",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "byContinuing": {
+        "text": "Dengan melanjutkan, Anda setuju dengan kami",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelPrivacy": {
+        "text": "Kebijakan pribadi",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelTermsCondtions": {
+        "text": "Syarat & Ketentuan",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "and": {
+        "text": "dan",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "tryAgain": {
+        "text": "Coba lagi",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "errorSigning": {
+        "text": "Kesalahan Masuk",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "ssoLoginErrorTitle": {
+        "text": "Maaf, tetapi kami kesulitan memasukkan Anda. Coba lagi dalam beberapa menit.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "ssoLoginErrorSubTitle": {
+        "text": "Jika ini tidak berhasil, silakan hubungi admin Anda.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    }
+}

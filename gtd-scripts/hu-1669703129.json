@@ -1,0 +1,542 @@
+{
+    "btnLogin": {
+        "text": "Belépés",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "btnPasswordHelp": {
+        "text": "Új jelszó kérése",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "btnResetPassword": {
+        "text": "Mentés és bejelentkezés",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "byFMC": {
+        "text": "által",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "emailAddressError": {
+        "text": "Az e-mail cím vagy telefonszám nincs regisztrálva fiókhoz. Kérjük, ellenőrizze a megadott e-mail címet vagy telefonszámot, vagy kérjen hozzáférést fiók létrehozásához.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputEmail": {
+        "text": "E-mail cím vagy telefonszám",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputPassword": {
+        "text": "Jelszó",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputPasswordNotCorrect": {
+        "text": "Az Ön által megadott jelszó nem egyezik a nyilvántartásunkkal. Kérlek próbáld újra.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputResetPasswordConfirmPassword": {
+        "text": "Erősítse meg az új jelszót",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputResetPasswordNewPassword": {
+        "text": "új jelszó",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelPasswordHelp": {
+        "text": "Jelszó súgó",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelPasswordHelpHeader": {
+        "text": "Állítsd vissza a jelszavad",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelPasswordHelpSecondHeader1": {
+        "text": "Jelszó-visszaállítási linket küldünk telefonszámára. Még mindig segítségre van szüksége? Vegye fel velünk a kapcsolatot a címen",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "[We&#39;ll] send a password reset link to your phone number. Still need help? Contact us at",
+                "didYouMean": true
+            }
+        },
+        "raw": ""
+    },
+    "labelPasswordHelpSecondHeader2": {
+        "text": "nál nél",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelResetPasswordHeader": {
+        "text": "Válasszon új jelszót",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelResetPasswordSecondHeader1": {
+        "text": "Válasszon egy biztonságos jelszót, amelyet meg tud jegyezni, ideális esetben {{length}} vagy több karakter keverékét, és tartalmazzon legalább egy speciális karaktert.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelSignUp": {
+        "text": "Regisztrálj",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "messageResetPasswordSuccess": {
+        "text": "Köszönöm. Ideiglenes jelszót küldtünk az e-mail címére. Kérjük, jelentkezzen be ezzel az új jelszóval, és a bejelentkezés után változtassa meg.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "passwordError": {
+        "text": "",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "hu"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "passwordNotMatch": {
+        "text": "Jelszó nem egyezik",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "resetPasswordWhenUserLoggedIn": {
+        "text": "Fiókja biztonsága érdekében jelszavának legalább {{length}} karakter hosszúságúnak kell lennie, és tartalmaznia kell legalább egy speciális karaktert.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "phoneBeginWithCode": {
+        "text": "A telefonszámnak országkóddal kell kezdődnie (pl. {{countryCode}})",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "Phone number must begin with a country code (e.g. {{[country Code]}})",
+                "didYouMean": true
+            }
+        },
+        "raw": ""
+    },
+    "enterValidCredential": {
+        "text": "Kérjük, adjon meg egy érvényes e-mail címet vagy telefonszámot",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "noInternetError": {
+        "text": "Nincs internetkapcsolat. Kérlek, próbáld újra később.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelFMCLogin": {
+        "text": "FMC alkalmazott?",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelFMCLoginSubtext": {
+        "text": "Folytassa az FMC e-mail azonosítójával",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "Continue with your FMC [email] ID",
+                "didYouMean": true
+            }
+        },
+        "raw": ""
+    },
+    "loginWithCredential": {
+        "text": "Kérjük, jelentkezzen be hitelesítő adataival",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "loginHeader": {
+        "text": "Belépés",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "byContinuing": {
+        "text": "A folytatással Ön elfogadja a mi véleményünket",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelPrivacy": {
+        "text": "Adatvédelmi irányelvek",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelTermsCondtions": {
+        "text": "Feltételek",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "and": {
+        "text": "és",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "tryAgain": {
+        "text": "Próbáld újra",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "errorSigning": {
+        "text": "Hiba a bejelentkezéskor",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "ssoLoginErrorTitle": {
+        "text": "Sajnáljuk, de problémába ütköztünk a bejelentkezéssel. Kérjük, próbálja újra néhány perc múlva.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "ssoLoginErrorSubTitle": {
+        "text": "Ha ez nem működik, forduljon a rendszergazdához.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    }
+}

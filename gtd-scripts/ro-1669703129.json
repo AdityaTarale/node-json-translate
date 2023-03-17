@@ -1,0 +1,542 @@
+{
+    "btnLogin": {
+        "text": "Autentificare",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "btnPasswordHelp": {
+        "text": "Solicitați o nouă parolă",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "btnResetPassword": {
+        "text": "Salvați și conectați-vă",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "byFMC": {
+        "text": "de",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "emailAddressError": {
+        "text": "Adresa de e-mail sau numărul de telefon nu sunt înregistrate cu un cont. Verificați adresa de e-mail sau numărul de telefon introdus sau solicitați acces pentru a crea un cont.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputEmail": {
+        "text": "Adresă de e-mail sau număr de telefon",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputPassword": {
+        "text": "Parola",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputPasswordNotCorrect": {
+        "text": "Parola pe care ați introdus-o nu corespunde înregistrărilor noastre. Vă rugăm să încercați din nou.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputResetPasswordConfirmPassword": {
+        "text": "Confirmă noua parolă",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputResetPasswordNewPassword": {
+        "text": "Parolă Nouă",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelPasswordHelp": {
+        "text": "Ajutor pentru parolă",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelPasswordHelpHeader": {
+        "text": "reseteaza parola",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelPasswordHelpSecondHeader1": {
+        "text": "Vom trimite un link de resetare a parolei la numărul dvs. de telefon. Mai ai nevoie de ajutor? Contactați-ne la",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "[We&#39;ll] send a password reset link to your phone number. Still need help? Contact us at",
+                "didYouMean": true
+            }
+        },
+        "raw": ""
+    },
+    "labelPasswordHelpSecondHeader2": {
+        "text": "la",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelResetPasswordHeader": {
+        "text": "Alegeți o nouă parolă",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelResetPasswordSecondHeader1": {
+        "text": "Alegeți o parolă sigură pe care să vă amintiți, în mod ideal, o combinație de {{length}} caractere sau mai multe și să conțină cel puțin un caracter special.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelSignUp": {
+        "text": "Inscrie-te",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "messageResetPasswordSuccess": {
+        "text": "Mulțumesc. O parolă temporară a fost trimisă la adresa dvs. de e-mail. Vă rugăm să vă conectați cu acea nouă parolă și să o schimbați după ce vă autentificați.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "passwordError": {
+        "text": "",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "ro"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "passwordNotMatch": {
+        "text": "Parola nu se potriveste",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "resetPasswordWhenUserLoggedIn": {
+        "text": "Pentru securitatea contului, parola trebuie să aibă cel puțin {{length}} caractere și să conțină cel puțin un caracter special.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "phoneBeginWithCode": {
+        "text": "Numărul de telefon trebuie să înceapă cu un cod de țară (de exemplu, {{countryCode}})",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "Phone number must begin with a country code (e.g. {{[country Code]}})",
+                "didYouMean": true
+            }
+        },
+        "raw": ""
+    },
+    "enterValidCredential": {
+        "text": "Vă rugăm să introduceți o adresă de e-mail sau un număr de telefon valid",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "noInternetError": {
+        "text": "Fără conexiune internet. Vă rugăm să încercați din nou mai târziu.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelFMCLogin": {
+        "text": "Angajat FMC?",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelFMCLoginSubtext": {
+        "text": "Continuați cu ID-ul dvs. de e-mail FMC",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "Continue with your FMC [email] ID",
+                "didYouMean": true
+            }
+        },
+        "raw": ""
+    },
+    "loginWithCredential": {
+        "text": "Vă rugăm să vă autentificați cu acreditările",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "loginHeader": {
+        "text": "Autentificare",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "byContinuing": {
+        "text": "Continuând, sunteți de acord cu noastre",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelPrivacy": {
+        "text": "Politica de Confidențialitate",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelTermsCondtions": {
+        "text": "Termeni și condiții",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "and": {
+        "text": "și",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "tryAgain": {
+        "text": "Încearcă din nou",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "errorSigning": {
+        "text": "Eroare la conectare",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "ssoLoginErrorTitle": {
+        "text": "Ne pare rău, dar avem probleme la conectare. Vă rugăm să încercați din nou peste câteva minute.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "ssoLoginErrorSubTitle": {
+        "text": "Dacă acest lucru nu funcționează, vă rugăm să contactați administratorul.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    }
+}

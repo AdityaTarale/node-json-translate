@@ -1,0 +1,542 @@
+{
+    "btnLogin": {
+        "text": "Accesso",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "btnPasswordHelp": {
+        "text": "Richiedi nuova password",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "btnResetPassword": {
+        "text": "Salva e accedi",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "byFMC": {
+        "text": "di",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "emailAddressError": {
+        "text": "L'indirizzo e-mail o il numero di telefono non è registrato con un account. Controlla l'indirizzo e-mail o il numero di telefono che hai inserito o richiedi l'accesso per creare un account.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputEmail": {
+        "text": "Indirizzo e-mail o numero di telefono",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputPassword": {
+        "text": "Parola d'ordine",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputPasswordNotCorrect": {
+        "text": "La password che hai inserito non corrisponde ai nostri record. Per favore riprova.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputResetPasswordConfirmPassword": {
+        "text": "Conferma la nuova password",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputResetPasswordNewPassword": {
+        "text": "nuova password",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelPasswordHelp": {
+        "text": "Aiuto password",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelPasswordHelpHeader": {
+        "text": "reimposta la tua password",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelPasswordHelpSecondHeader1": {
+        "text": "Invieremo un link per reimpostare la password al tuo numero di telefono. Ancora bisogno di aiuto? Contattaci al",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "[We&#39;ll] send a password reset link to your phone number. Still need help? Contact us at",
+                "didYouMean": true
+            }
+        },
+        "raw": ""
+    },
+    "labelPasswordHelpSecondHeader2": {
+        "text": "a",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelResetPasswordHeader": {
+        "text": "Scegli una nuova password",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelResetPasswordSecondHeader1": {
+        "text": "Scegli una password sicura che puoi ricordare, idealmente un mix di {{length}} caratteri o più e contenga almeno un carattere speciale.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelSignUp": {
+        "text": "Iscrizione",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "messageResetPasswordSuccess": {
+        "text": "Grazie. Una password temporanea è stata inviata al tuo indirizzo email. Accedi con la nuova password e cambiala dopo aver effettuato l'accesso.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "passwordError": {
+        "text": "",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "it"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "passwordNotMatch": {
+        "text": "La password non corrisponde",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "resetPasswordWhenUserLoggedIn": {
+        "text": "Per la sicurezza del tuo account, la tua password deve essere lunga almeno {{length}} caratteri e contenere almeno un carattere speciale.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "phoneBeginWithCode": {
+        "text": "Il numero di telefono deve iniziare con un prefisso internazionale (ad es. {{countryCode}})",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "Phone number must begin with a country code (e.g. {{[country Code]}})",
+                "didYouMean": true
+            }
+        },
+        "raw": ""
+    },
+    "enterValidCredential": {
+        "text": "Inserisci un indirizzo email o un numero di telefono valido",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "noInternetError": {
+        "text": "Nessuna connessione internet. Per favore riprova più tardi.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelFMCLogin": {
+        "text": "Dipendente FMC?",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelFMCLoginSubtext": {
+        "text": "Continua con il tuo ID e-mail FMC",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "Continue with your FMC [email] ID",
+                "didYouMean": true
+            }
+        },
+        "raw": ""
+    },
+    "loginWithCredential": {
+        "text": "Effettua il login con le tue credenziali",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "loginHeader": {
+        "text": "Login",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "byContinuing": {
+        "text": "Continuando, accetti i nostri",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelPrivacy": {
+        "text": "politica sulla riservatezza",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelTermsCondtions": {
+        "text": "Termini e condizioni",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "and": {
+        "text": "e",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "tryAgain": {
+        "text": "Riprova",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "errorSigning": {
+        "text": "Errore durante l'accesso",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "ssoLoginErrorTitle": {
+        "text": "Siamo spiacenti, ma stiamo riscontrando problemi durante l'accesso. Riprova tra qualche minuto.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "ssoLoginErrorSubTitle": {
+        "text": "Se non funziona, contatta il tuo amministratore.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    }
+}

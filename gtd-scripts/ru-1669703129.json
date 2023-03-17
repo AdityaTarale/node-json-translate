@@ -1,0 +1,542 @@
+{
+    "btnLogin": {
+        "text": "Авторизоваться",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "btnPasswordHelp": {
+        "text": "Запросить новый пароль",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "btnResetPassword": {
+        "text": "Сохранить и войти",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "byFMC": {
+        "text": "по",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "emailAddressError": {
+        "text": "Адрес электронной почты или номер телефона не зарегистрированы в учетной записи. Проверьте введенный адрес электронной почты или номер телефона или запросите доступ для создания учетной записи.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputEmail": {
+        "text": "Адрес электронной почты или номер телефона",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputPassword": {
+        "text": "Пароль",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputPasswordNotCorrect": {
+        "text": "Введенный вами пароль не соответствует нашим записям. Пожалуйста, попробуйте еще раз.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputResetPasswordConfirmPassword": {
+        "text": "Подтвердите новый пароль",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "inputResetPasswordNewPassword": {
+        "text": "Новый пароль",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelPasswordHelp": {
+        "text": "Справка по паролю",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelPasswordHelpHeader": {
+        "text": "Сбросить пароль",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelPasswordHelpSecondHeader1": {
+        "text": "Мы отправим ссылку для сброса пароля на ваш номер телефона. Все еще нужна помощь? Свяжитесь с нами по",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "[We&#39;ll] send a password reset link to your phone number. Still need help? Contact us at",
+                "didYouMean": true
+            }
+        },
+        "raw": ""
+    },
+    "labelPasswordHelpSecondHeader2": {
+        "text": "в",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelResetPasswordHeader": {
+        "text": "Выберите новый пароль",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelResetPasswordSecondHeader1": {
+        "text": "Выберите безопасный пароль, который вы сможете запомнить. В идеале он должен состоять из {{длины}} символов или более и содержать хотя бы один специальный символ.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelSignUp": {
+        "text": "Зарегистрироваться",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "messageResetPasswordSuccess": {
+        "text": "Спасибо. На ваш адрес электронной почты отправлен временный пароль. Пожалуйста, войдите с этим новым паролем и измените его после входа в систему.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "passwordError": {
+        "text": "",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "ru"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "passwordNotMatch": {
+        "text": "Пароль не совпадает",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "resetPasswordWhenUserLoggedIn": {
+        "text": "В целях безопасности вашей учетной записи ваш пароль должен содержать не менее {{length}} символов и содержать хотя бы один специальный символ.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "phoneBeginWithCode": {
+        "text": "Номер телефона должен начинаться с кода страны (например, {{countryCode}})",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "Phone number must begin with a country code (e.g. {{[country Code]}})",
+                "didYouMean": true
+            }
+        },
+        "raw": ""
+    },
+    "enterValidCredential": {
+        "text": "Пожалуйста, введите действительный адрес электронной почты или номер телефона",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "noInternetError": {
+        "text": "Нет соединения с интернетом. Пожалуйста, попробуйте позже.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelFMCLogin": {
+        "text": "Сотрудник ФМС?",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelFMCLoginSubtext": {
+        "text": "Продолжить с вашим идентификатором электронной почты FMC",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "Continue with your FMC [email] ID",
+                "didYouMean": true
+            }
+        },
+        "raw": ""
+    },
+    "loginWithCredential": {
+        "text": "Пожалуйста, войдите с вашими учетными данными",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "loginHeader": {
+        "text": "Авторизоваться",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "byContinuing": {
+        "text": "Продолжая, вы соглашаетесь с нашими",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelPrivacy": {
+        "text": "Политика конфиденциальности",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "labelTermsCondtions": {
+        "text": "Срок и условия",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "and": {
+        "text": "а также",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "tryAgain": {
+        "text": "Попробуйте еще раз",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "errorSigning": {
+        "text": "Ошибка входа",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "ssoLoginErrorTitle": {
+        "text": "Извините, но у нас возникли проблемы со входом в систему. Повторите попытку через несколько минут.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    },
+    "ssoLoginErrorSubTitle": {
+        "text": "Если это не сработает, обратитесь к администратору.",
+        "from": {
+            "language": {
+                "didYouMean": false,
+                "iso": "en"
+            },
+            "text": {
+                "autoCorrected": false,
+                "value": "",
+                "didYouMean": false
+            }
+        },
+        "raw": ""
+    }
+}
